@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Harem Digital Solutions</title>
+
+<style>
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial, sans-serif;
+}
+
+body{
+background:#f5f5f5;
+color:#333;
+}
+
+header{
+background:#0b4f6c;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#083d56;
+padding:15px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+
+.hero{
+padding:80px 20px;
+text-align:center;
+background:#eaf6fb;
+}
+
+.hero h1{
+font-size:45px;
+color:#0b4f6c;
+}
+
+.hero p{
+margin-top:20px;
+font-size:20px;
+}
+
+.button{
+display:inline-block;
+margin-top:30px;
+padding:15px 35px;
+background:#28a745;
+color:white;
+text-decoration:none;
+border-radius:5px;
+}
+
+.services{
+padding:50px;
+text-align:center;
+}
+
+.card{
+background:white;
+padding:20px;
+margin:15px;
+display:inline-block;
+width:250px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,.1);
+}
+
+footer{
+background:#0b4f6c;
+color:white;
+padding:25px;
+text-align:center;
+margin-top:40px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h2>Harem Digital Solutions</h2>
+<p>Building Your Digital Future</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">About</a>
+<a href="#">Services</a>
+<a href="#">Portfolio</a>
+<a href="#">Contact</a>
+</nav>
+
+<section class="hero">
+
+<h1>Professional Website Design</h1>
+
+<p>
+We design beautiful, responsive and affordable websites for schools,
+churches, businesses, NGOs and individuals across Uganda.
+</p>
+
+<a href="#" class="button">Request a Quote</a>
+
+</section>
+
+<section class="services">
+
+<h2>Our Services</h2>
+
+<div class="card">
+<h3>Website Design</h3>
+<p>Modern websites for every business.</p>
+</div>
+
+<div class="card">
+<h3>School Websites</h3>
+<p>Professional school websites with admissions and gallery.</p>
+</div>
+
+<div class="card">
+<h3>Graphic Design</h3>
+<p>Logos, flyers, posters and business branding.</p>
+</div>
+
+<div class="card">
+<h3>ICT Consultancy</h3>
+<p>Helping businesses embrace technology.</p>
+</div>
+
+</section>
+
+<footer>
+
+<h3>Contact Us</h3>
+
+<p>📞 0774309109 | 0706668902</p>
+
+<p>📧 nakindustries1@gmail.com</p>
+
+<p>📍 Mityana, Uganda</p>
+
+<p>© 2026 Harem Digital Solutions</p>
+
+</footer>
+
+</body>
+  </html>
